@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mohamed Ayoub Chedhli
+# Hi there! 👋 I'm Mohamed Ayoub Bchedhli
 
 An Enthusiastic **Industry 4.0 & Automation Engineering** student passionate about building smart systems, industrial IoT, autonomous robotics, and digital twins.
 
