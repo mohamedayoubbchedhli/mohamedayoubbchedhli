@@ -18,9 +18,7 @@ An Enthusiastic **Industry 4.0 & Automation Engineering** student passionate abo
   - Developed an automated sorting system prototype combining vision-based sorting and **ROS 2** architecture.
   - Designed the full mechanical structure using **SOLIDWORKS**.
 
-* 🌿 **Smart Greenhouse Automation**
-  - Implemented an industrial-grade environmental monitoring system using ESP32/Raspberry Pi and low-latency **MQTT** protocols.
-  - Integrated high-precision sensors like **SHT31** for real-time climate tracking.
+
 
 * 🥽 **VR Industrial Simulation**
   - Building immersive virtual environments and interactive training simulations using **Unity 6**.
