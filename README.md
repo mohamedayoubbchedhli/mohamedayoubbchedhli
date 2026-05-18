@@ -18,8 +18,6 @@ An Enthusiastic **Industry 4.0 & Automation Engineering** student passionate abo
   - Developed an automated sorting system prototype combining vision-based sorting and **ROS 2** architecture.
   - Designed the full mechanical structure using **SOLIDWORKS**.
 
-
-
 * 🥽 **VR Industrial Simulation**
   - Building immersive virtual environments and interactive training simulations using **Unity 6**.
 
@@ -28,13 +26,13 @@ An Enthusiastic **Industry 4.0 & Automation Engineering** student passionate abo
 ### 📊 My GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.get-e.org/api?username=mohamedayoubbchedhli&show_icons=true&theme=tokyonight&count_private=true" alt="Ayoub's GitHub stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohamedayoubbchedhli&show_icons=true&theme=tokyonight&count_private=true" alt="Ayoub's GitHub stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.get-e.org/api/top-langs/?username=mohamedayoubbchedhli&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohamedayoubbchedhli&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
 
-📬 **How to reach me:** - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/) *(Tnajem t7at liyen mte3ek hna)*
+📬 **How to reach me:** - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/)
