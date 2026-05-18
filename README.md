@@ -27,9 +27,13 @@ An Enthusiastic **Industry 4.0 & Automation Engineering** student passionate abo
 
 ### 📊 My GitHub Stats
 
-![Ayoub's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedayoubbchedhli&show_icons=true&theme=tokyonight&count_private=true)
+<p align="left">
+  <img src="https://github-readme-stats.get-e.org/api?username=mohamedayoubbchedhli&show_icons=true&theme=tokyonight&count_private=true" alt="Ayoub's GitHub stats" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedayoubbchedhli&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.get-e.org/api/top-langs/?username=mohamedayoubbchedhli&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
