@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Mohamed Ayoub Chedhli
+# Hi there! 👋 I'm Mohamed Ayoub Bchedhli
 
 An Enthusiastic **Industry 4.0 & Automation Engineering** Student passionate about building smart systems, industrial IoT, and digital twins.
 
@@ -16,7 +16,7 @@ An Enthusiastic **Industry 4.0 & Automation Engineering** Student passionate abo
 ### 🚀 Featured Projects
 *(Keep an eye out! I'm moving my local projects here soon)*
 - 🦾 **Smart Sorting Station:** ROS 2 & Vision-based automated sorting system.
-- 🌿 **Greenhouse Automation:** Low-latency sensor integration (SHT31) via MQTT.
+
 
 ---
 
