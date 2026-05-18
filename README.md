@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋 I'm Mohamed Ayoub Chedhli
 
-<!--
-**mohamedayoubbchedhli/mohamedayoubbchedhli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An Enthusiastic **Industry 4.0 & Automation Engineering** Student passionate about building smart systems, industrial IoT, and digital twins.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Toolkit
+
+- **Automation & Robotics:** ROS 2 (Humble/Jazzy), Industrial IoT, MQTT, Modbus
+- **Embedded Systems:** ESP32, ESP32-CAM, Raspberry Pi, Microcontrollers
+- **CAD & Mechanical Design:** SOLIDWORKS (CSWA Certified 📜), Part Modeling & Assembly
+- **Software & Simulation:** Python, C++, Unity 6 (VR/XR Simulation)
+
+---
+
+### 🚀 Featured Projects
+*(Keep an eye out! I'm moving my local projects here soon)*
+- 🦾 **Smart Sorting Station:** ROS 2 & Vision-based automated sorting system.
+- 🌿 **Greenhouse Automation:** Low-latency sensor integration (SHT31) via MQTT.
+
+---
+
+📬 **How to reach me:** - 💼 Connect with me on LinkedIn!
