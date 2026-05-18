@@ -1,23 +1,8 @@
-# Hi there! 👋 I'm Mohamed Ayoub Bchedhli
-
-An Enthusiastic **Industry 4.0 & Automation Engineering** Student passionate about building smart systems, industrial IoT, and digital twins.
-
----
-
 ### 🛠️ Technical Toolkit
 
-- **Automation & Robotics:** ROS 2 (Humble/Jazzy), Industrial IoT, MQTT, Modbus
-- **Embedded Systems:** ESP32, ESP32-CAM, Raspberry Pi, Microcontrollers
-- **CAD & Mechanical Design:** SOLIDWORKS (CSWA Certified 📜), Part Modeling & Assembly
-- **Software & Simulation:** Python, C++, Unity 6 (VR/XR Simulation)
-
----
-
-### 🚀 Featured Projects
-*(Keep an eye out! I'm moving my local projects here soon)*
-- 🦾 **Smart Sorting Station:** ROS 2 & Vision-based automated sorting system.
-
-
----
-
-📬 **How to reach me:** - 💼 Connect with me on LinkedIn!
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![ROS2](https://img.shields.io/badge/ros2-%230A0A0A.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Unity](https://img.shields.io/badge/unity-%23222222.svg?style=for-the-badge&logo=unity&logoColor=white)
+![SOLIDWORKS](https://img.shields.io/badge/solidworks-%23DE1F26.svg?style=for-the-badge&logo=solidworks&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white)
